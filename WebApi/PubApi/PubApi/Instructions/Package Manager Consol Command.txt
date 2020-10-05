@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=DEVELOPMENT;Database=db843153744;Trusted_Connection=True;MultipleActiveResultSets=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force

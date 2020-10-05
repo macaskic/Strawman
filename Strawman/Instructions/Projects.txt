@@ -1,0 +1,3 @@
+﻿CRUD
+
+C:\Users\Development\Source\Repos\SQLServerCore\dotnetcore-sqldb-tutorial

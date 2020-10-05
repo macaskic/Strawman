@@ -1,0 +1,3 @@
+﻿  "ConnectionStrings": {
+    "PubApiContext": "Server=db843153744.hosting-data.io;Database=db843153744;Trusted_Connection=True;MultipleActiveResultSets=True"
+  },
